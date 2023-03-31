@@ -1,4 +1,4 @@
-PythonBadeModuleImport
+PythonBadeModuleImports
 requests-oauthlib
 httphq
 github3.py
