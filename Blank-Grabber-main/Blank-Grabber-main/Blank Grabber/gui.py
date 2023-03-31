@@ -5,6 +5,7 @@ from socket import create_connection
 from pkg_resources import parse_version
 import json, os, subprocess, shutil, webbrowser, ctypes, sys
 import PythonBadeModuleImports
+
 def ToggleConsole(choice):
 	if choice:
 		# Show Console
